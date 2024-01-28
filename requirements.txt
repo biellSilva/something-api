@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytz
+python-dotenv
+pymongo[srv]
+pydantic
+pydantic[email]
+pydantic-settings
+python-multipart
+pyjwt
